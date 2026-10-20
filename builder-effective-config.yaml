@@ -1,0 +1,24 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.mgplay.app
+productName: MGPLAY
+files:
+  - filter:
+      - dist/**/*
+      - dist-electron/**/*
+      - package.json
+win:
+  target:
+    - nsis
+    - portable
+  icon: build/icon.ico
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  shortcutName: MGPLAY (teste)
+  artifactName: MGPLAY-Teste-Setup-${version}.${ext}
+portable:
+  artifactName: MGPLAY-Teste-Portatil-${version}.${ext}
+electronVersion: 36.9.5
