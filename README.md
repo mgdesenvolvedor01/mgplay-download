@@ -1,77 +1,67 @@
 # MGPLAY para Windows
 
-Aplicativo de TV ao vivo, filmes e séries para Windows. Ele toca as listas **M3U autorizadas** que o seu
+Player de TV ao vivo, filmes e séries para Windows. Ele toca as listas **M3U/Xtream autorizadas** que o seu
 fornecedor libera para você.
-
-> ⚠️ **Versão de teste.** Pode ter falhas. Se encontrar algum problema, fale com quem te passou o aplicativo.
 
 ---
 
 ## ⬇️ Baixar
 
-Clique em **[Baixar a versão mais recente](https://github.com/SEU-USUARIO/mgplay-download/releases/latest)** e escolha um dos arquivos:
+- **Microsoft Store:** em breve.
+- **Download direto:** [Baixar a versão mais recente](https://github.com/mgdesenvolvedor01/mgplay-download/releases/latest).
+  Escolha um destes arquivos:
 
 | Arquivo | Para quem |
 | --- | --- |
-| `MGPLAY-Teste-Setup-X.X.X.exe` | **Recomendado.** Instala no computador e cria um atalho na Área de Trabalho. |
-| `MGPLAY-Teste-Portatil-X.X.X.exe` | Abre direto, sem instalar (bom para testar ou usar num pendrive). |
+| `MGPLAY-Setup-X.X.X.exe` | **Recomendado.** Instala no computador e cria um atalho na Área de Trabalho. |
+| `MGPLAY-Portatil-X.X.X.exe` | Abre direto, sem instalar. |
 
 **Requisitos:** Windows 10 ou 11 (64 bits) e internet.
 
 ---
 
-## 🛠️ Como instalar
+## 🛠️ Como instalar (download direto)
 
 1. Baixe o arquivo **Setup** pelo link acima.
 2. Abra o arquivo baixado (fica na pasta **Downloads**).
-3. Se aparecer a tela azul **"O Windows protegeu o computador"**, veja a próxima seção.
-4. Escolha a pasta, clique em **Instalar** e depois em **Concluir**.
+3. Se aparecer a tela azul **"O Windows protegeu o computador"**, veja a seção abaixo.
+4. Clique em **Instalar** e depois em **Concluir**.
 5. Abra o **MGPLAY** pelo atalho na Área de Trabalho.
 
 ### "O Windows protegeu o computador" — é normal?
 
-**Sim.** Esse aviso do Windows (SmartScreen) aparece em todo programa novo que ainda não tem
-**assinatura digital**, que é um certificado pago. Ele não quer dizer que o programa tem vírus. Para continuar:
+**Sim.** Esse aviso aparece em programas novos que ainda não têm **assinatura digital** (um certificado
+pago). Ele não quer dizer que o programa tem vírus. Para continuar:
 
 1. Clique em **Mais informações**.
 2. Clique em **Executar assim mesmo**.
 
-O navegador também pode avisar que o arquivo "não costuma ser baixado". Nesse caso, clique em **⋯**,
-depois em **Manter** e depois em **Manter assim mesmo**.
+Se o navegador avisar que o arquivo "não costuma ser baixado", clique em **⋯**, depois em **Manter** e
+depois em **Manter assim mesmo**.
 
-### O antivírus bloqueou o arquivo
-
-Alguns antivírus desconfiam de programas novos e sem assinatura. Se tiver baixado **por este link oficial**,
-você pode liberar o arquivo no antivírus. Na dúvida, **não instale**: fale com quem te passou o aplicativo.
+Em breve o MGPLAY também estará na **Microsoft Store**, que instala sem esse aviso.
 
 ---
 
 ## ▶️ Primeiro acesso
 
-1. Na tela inicial, clique em **Mostrar código**. Vai aparecer um código de **4 dígitos**.
-2. Envie esse código para o seu fornecedor.
-3. Quando ele liberar, a lista carrega **sozinha**. Você não precisa digitar nada.
+1. Ao abrir o MGPLAY pela primeira vez, aparecem o **MAC** e a **Chave** do seu computador. Eles também
+   ficam no botão **Ativar aparelho** da tela inicial.
+2. Envie o MAC e a Chave para o seu fornecedor.
+3. Quando ele ativar, clique em **Já ativei, verificar**: a lista carrega **sozinha**. Se aparecer o pedido de
+   **usuário e senha**, use os dados que o fornecedor te enviou.
+4. Tem um **código de ativação**? Digite em "Tenho um código de ativação".
 
 Se o fornecedor te mandou um **link de lista** ou **servidor + usuário + senha**, use o caminho
 **Configurações → Lista M3U**, preencha os dados e clique em **Conferir e salvar**.
 
 ---
 
-## 🔄 Atualizações
-
-Quando sair uma versão nova, o próprio aplicativo avisa e se atualiza. Para instalar do zero, baixe de novo pelo
-link **[Baixar a versão mais recente](https://github.com/SEU-USUARIO/mgplay-download/releases/latest)**.
-
----
-
 ## ❓ Dúvidas comuns
 
 **O canal não abre ou aparece "indisponível".**
-Clique em **Recarregar** no menu e tente de novo. Se continuar, a mensagem na tela diz o motivo, por exemplo
-"limite de conexões" ou "conta vencida". Mande essa mensagem para o seu fornecedor.
-
-**Onde vejo até quando vale a minha conta?**
-Em **Configurações**, no quadro da conta.
+Clique em **Recarregar** no menu. Se continuar, a mensagem na tela diz o motivo (por exemplo,
+"limite de conexões" ou "conta vencida"). Mande essa mensagem para o seu fornecedor.
 
 **Como desinstalar?**
 Vá em **Configurações do Windows → Aplicativos → MGPLAY → Desinstalar**. Para a versão portátil, basta apagar o arquivo.
@@ -85,6 +75,7 @@ Vá em **Configurações → Sobre e diagnóstico → Abrir pasta de logs** e en
 
 - O MGPLAY **não vende nem fornece** canais, filmes ou séries. Ele apenas reproduz listas que **você tem
   autorização** para usar.
-- Baixe **somente** por este link oficial. Cópias de outros sites podem ter sido alteradas.
+- Baixe **somente** pelos links oficiais desta página.
+- [Política de Privacidade](PRIVACIDADE.md)
 
-**Suporte:** SEU CONTATO AQUI
+**Suporte:** mgdesenvolvedor01@gmail.com
