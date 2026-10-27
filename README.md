@@ -7,7 +7,8 @@ fornecedor libera para você.
 
 ## ⬇️ Baixar
 
-- **Microsoft Store:** em breve.
+- **Microsoft Store (recomendado):** [MGPLAY na Microsoft Store](https://apps.microsoft.com/detail/9NVKCS0NB342). Instala sem
+  avisos do Windows e se atualiza sozinho pela loja.
 - **Download direto:** [Baixar a versão mais recente](https://github.com/mgdesenvolvedor01/mgplay-download/releases/latest).
   Escolha um destes arquivos:
 
@@ -17,6 +18,11 @@ fornecedor libera para você.
 | `MGPLAY-Portatil-X.X.X.exe` | Abre direto, sem instalar. |
 
 **Requisitos:** Windows 10 ou 11 (64 bits) e internet.
+
+### 🌐 Quer assistir sem instalar nada?
+
+Acesse **[mgplay.top](https://mgplay.top)** pelo navegador (computador, celular ou Smart TV) e entre com o
+usuário e a senha que o seu fornecedor te enviou. Não precisa baixar nem instalar nada.
 
 ---
 
@@ -39,18 +45,18 @@ pago). Ele não quer dizer que o programa tem vírus. Para continuar:
 Se o navegador avisar que o arquivo "não costuma ser baixado", clique em **⋯**, depois em **Manter** e
 depois em **Manter assim mesmo**.
 
-Em breve o MGPLAY também estará na **Microsoft Store**, que instala sem esse aviso.
+Prefere não ver esse aviso? Instale pela **Microsoft Store**.
 
 ---
 
 ## ▶️ Primeiro acesso
 
-1. Ao abrir o MGPLAY pela primeira vez, aparecem o **MAC** e a **Chave** do seu computador. Eles também
-   ficam no botão **Ativar aparelho** da tela inicial.
-2. Envie o MAC e a Chave para o seu fornecedor.
-3. Quando ele ativar, clique em **Já ativei, verificar**: a lista carrega **sozinha**. Se aparecer o pedido de
-   **usuário e senha**, use os dados que o fornecedor te enviou.
-4. Tem um **código de ativação**? Digite em "Tenho um código de ativação".
+1. Ao abrir o MGPLAY pela primeira vez, aparece a janela **Entrar na sua conta**.
+2. Digite o **usuário e a senha** que o seu fornecedor te enviou e clique em **Entrar**. A lista carrega sozinha.
+3. Para trocar de conta: **Configurações → Conta → Sair / trocar de conta**.
+
+Se o seu fornecedor usa ativação por aparelho, a janela mostra o **MAC** e a **Chave**: envie os dois para ele
+e, depois que ele ativar, clique em **Já ativei, verificar**.
 
 Se o fornecedor te mandou um **link de lista** ou **servidor + usuário + senha**, use o caminho
 **Configurações → Lista M3U**, preencha os dados e clique em **Conferir e salvar**.
